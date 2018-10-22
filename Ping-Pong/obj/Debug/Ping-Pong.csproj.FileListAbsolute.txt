@@ -1,0 +1,10 @@
+c:\users\scops owl\source\repos\Ping-Pong\Ping-Pong\bin\Debug\Ping-Pong.exe.config
+c:\users\scops owl\source\repos\Ping-Pong\Ping-Pong\bin\Debug\Ping-Pong.exe
+c:\users\scops owl\source\repos\Ping-Pong\Ping-Pong\bin\Debug\Ping-Pong.pdb
+c:\users\scops owl\source\repos\Ping-Pong\Ping-Pong\obj\Debug\Ping-Pong.csprojAssemblyReference.cache
+c:\users\scops owl\source\repos\Ping-Pong\Ping-Pong\obj\Debug\Ping_Pong.Form1.resources
+c:\users\scops owl\source\repos\Ping-Pong\Ping-Pong\obj\Debug\Ping_Pong.Properties.Resources.resources
+c:\users\scops owl\source\repos\Ping-Pong\Ping-Pong\obj\Debug\Ping-Pong.csproj.GenerateResource.cache
+c:\users\scops owl\source\repos\Ping-Pong\Ping-Pong\obj\Debug\Ping-Pong.csproj.CoreCompileInputs.cache
+c:\users\scops owl\source\repos\Ping-Pong\Ping-Pong\obj\Debug\Ping-Pong.exe
+c:\users\scops owl\source\repos\Ping-Pong\Ping-Pong\obj\Debug\Ping-Pong.pdb
